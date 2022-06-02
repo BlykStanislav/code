@@ -1,0 +1,7 @@
+ul li{
+    display: inline-block;
+    margin-left: 10px;
+  }
+.bg { background: url("../img/gr.png") no-repeat ;
+    background-size: cover;
+    }
